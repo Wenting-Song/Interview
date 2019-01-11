@@ -2,7 +2,7 @@
 # Leetcode/Lintcode
 Solution for Leetcode/Lintcode
 
-|**Sequence**| **No.#**| **Problem**                         | **Level**     | **Language** |**Source**| |**Company**|
+|**Sequence**| **No.#**| **Problem**                         | **Level**     | **Language** |**Source** |**Company**|
 |:--:|:----:| :-----                              |   :---:       |    :---:     | :--:     |
 |1     |1    | [SubtreeOfAnotherTree.java](Java/572_SubtreeOfAnotherTree.java)  |    Easy       |    Java      |Leetcode  |  A
 |2     |242  | [Valid Anagram.java](Java/242_ValidAnagram.java) | Easy|Java       |Leetcode  |
