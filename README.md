@@ -11,5 +11,5 @@ Solution for Leetcode/Lintcode
 |5     |206  | [206. Reverse Linked List](Java/206_ReverseLinkedList.java)|Easy |Java| Leetcode  |
 |6     |242 | [242. Valid Anagram](Java/242_ValidAnagram.java)|Easy |Java| Leetcode  |
 |7     |21 | [21_Merge Two Sorted Lists](Java/21_MergeTwoSortedLists.java)|Easy |Java| Leetcode  |
-|8     |56 | [56_Merge Two Sorted Lists](Java/56_MergeIntervals.java)|Medium |Java| Leetcode  |
+|8     |56 | [56_Merge Intervals](Java/56_MergeIntervals.java)|Medium |Java| Leetcode  |
 |9     |N/A | [Bottom View of a Binary Tree](Java/BottomViewofABinaryTree.java)|Medium |Java| GeeksforGeeks |
