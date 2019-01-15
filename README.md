@@ -13,3 +13,5 @@ Solution for Leetcode/Lintcode
 |7     |21 | [21_Merge Two Sorted Lists](Java/21_MergeTwoSortedLists.java)|Easy |Java| Leetcode  |
 |8     |56 | [56_Merge Intervals](Java/56_MergeIntervals.java)|Medium |Java| Leetcode  |
 |9     |N/A | [Bottom View of a Binary Tree](Java/BottomViewofABinaryTree.java)|Medium |Java| GeeksforGeeks |
+|10     |186| [Bottom View of a Binary Tree](Java/BottomViewofABinaryTree.java)|Medium |Java| GeeksforGeeks |
+
