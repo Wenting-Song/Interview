@@ -27,3 +27,4 @@ class Solution {
         return res;
   }
 }
+// Product on the left, then product on the right
