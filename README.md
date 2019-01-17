@@ -16,5 +16,5 @@ Solution for Leetcode/Lintcode
 |10     |186| [186. Reverse Words in a String II](Java/186_ReverseWordsInAStringII.java)|Medium |Java| Leetcode |
 |11    |238| [238_Product Of Array Except Self](Java/238_ProductOfArrayExceptSelf.java)|Medium |Java| Leetcode |
 |12    |165| [165_Compare Version Numbers](Java/165_CompareVersionNumbers.java)|Medium |Java| Leetcode |
-|13    |340| [340_Longest Substring with At Most K Distinct Characters](Java/340_LongestSubstringWithAtMostKDistinctCharacters.java)|Medium |Java| Leetcode |
+|13    |340| [340_Longest Substring with At Most K Distinct Characters](Java/340_LongestSubstringWithAtMostKDistinctCharacters.java)|Hard|Java| Leetcode |
 
