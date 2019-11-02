@@ -19,7 +19,7 @@ Solution for Leetcode/Lintcode
 |13    |340| [340_Longest Substring with At Most K Distinct Characters](Java/340_LongestSubstringWithAtMostKDistinctCharacters.java)|Hard|Java| Leetcode |
 |14    |222| [222 Count Complete Tree Nodes](Java/222_CountCompleteTreeNodes.java)|Medium |Java| Leetcode |
 |15    |N/A | [Minimum Subtree](Java/MinimumSubtree.java)|N/A|Java| Leetcode |
-|16    |839 | [Similar String Groups](Java/UF(template).java)|Hard|Java| Leetcode |
+|16    |839 | [Similar String Groups(UF template)](Java/UF(template).java)|Hard|Java| Leetcode |
 
 
 
