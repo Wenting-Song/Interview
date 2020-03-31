@@ -21,6 +21,7 @@ Solution for Leetcode/Lintcode
 |15    |N/A | [Minimum Subtree](Java/MinimumSubtree.java)|N/A|Java| Leetcode |
 |16    |839 | [Similar String Groups(UF template)](Java/UF(template).java)|Hard|Java| Leetcode |
 |17    |315 | [Count of Smaller Numbers After Self](Java/315_CountOfSmallerNumbersAfterSelf.java)|Hard|Java| Leetcode |
+|18    |1395 | [Count Number of Teams](Java/1395_Count_Number_of_Teams.java)|Medium|Java| Leetcode |
 
 
 
