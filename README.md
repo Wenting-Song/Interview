@@ -20,6 +20,8 @@ Solution for Leetcode/Lintcode
 |14    |222| [222 Count Complete Tree Nodes](Java/222_CountCompleteTreeNodes.java)|Medium |Java| Leetcode |
 |15    |N/A | [Minimum Subtree](Java/MinimumSubtree.java)|N/A|Java| Leetcode |
 |16    |839 | [Similar String Groups(UF template)](Java/UF(template).java)|Hard|Java| Leetcode |
+|17    |315 | [Similar String Groups(UF template)](Java/UF(template).java)|Hard|Java| Leetcode |
+
 
 
 
