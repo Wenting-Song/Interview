@@ -22,6 +22,8 @@ Solution for Leetcode/Lintcode
 |16    |839 | [Similar String Groups(UF template)](Java/UF(template).java)|Hard|Java| Leetcode |
 |17    |315 | [Count of Smaller Numbers After Self](Java/315_CountOfSmallerNumbersAfterSelf.java)|Hard|Java| Leetcode |
 |18    |1395 | [Count Number of Teams](Java/1395_Count_Number_of_Teams.java)|Medium|Java| Leetcode |
+|19    |30Challenge | [Perform String Shifts](Java/Perform_string_shifts.java)|Medium|Java| Leetcode |
+|20   |189 | [Rotate_Array](Java/189_Rotate_Array.java)|Medium|Java| Leetcode |
 
 
 
