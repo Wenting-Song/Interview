@@ -62,3 +62,5 @@ class Solution {
         }
     }
 }
+
+//similar question: https://github.com/Wenting-Song/Interview/blob/master/Java/315_CountOfSmallerNumbersAfterSelf.java
