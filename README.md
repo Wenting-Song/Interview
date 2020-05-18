@@ -27,7 +27,6 @@ Solution for Leetcode/Lintcode
 |21   |678 | [Valid Parenthesis String](Java/Valid_Parenthesis_String.java)|Medium|Java| Leetcode |
 |22   |253 | [ Meeting Rooms II (Sweep Line)](Java/253_Meeting_Rooms_ii(Sweep_Line).java)|Medium|Java| Leetcode |
 |23   |1094 | [ Car Pooling (Sweep Line)](Java/Car_Pooling.java)|Medium|Java| Leetcode |
-
-
+|24   |236 | [Lowest Common Ancestor of a Binary Tree]0(Java/236_Lowest_Common_Ancestor_of_BTree.java)|Medium|Java| Leetcode |
 
 
