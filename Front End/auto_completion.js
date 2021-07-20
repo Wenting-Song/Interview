@@ -1,8 +1,8 @@
 
-Search Autocomplete
-We start off with registering an event handler to both change and keyup event, where we pass the local value on the a method that queries the remote service.
+//Search Autocomplete
+//We start off with registering an event handler to both change and keyup event, where we pass the local value on the a method that queries the remote service.
 
-Once the results are back, we inject them into the results list:
+//Once the results are back, we inject them into the results list:
 
     // Get HTML elements
     const searchInputElement = document.querySelector('.search-input');
