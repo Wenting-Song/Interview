@@ -30,7 +30,7 @@
     // Register for both events
     searchInputElement.addEventListener('change', handleChange);
     searchInputElement.addEventListener('keyup', handleChange);
-Next, we’ll want to optimize by reducing the number of requests to the external service. We’ll start with reducing repeating requests, by using memoization:
+//Next, we’ll want to optimize by reducing the number of requests to the external service. We’ll start with reducing repeating requests, by using memoization:
 
     // Adding this right before the handleChange method
     function memoize(func) {
@@ -51,7 +51,7 @@ Next, we’ll want to optimize by reducing the number of requests to the externa
 
     // Apply the memoization to the search results method
     showSearchResults = memoize(showSearchResults);
-The next optimization would be to handle debouncing, making sure we only begin searching once the user is done typing. Let’s assume that 200ms is a good enough proxy:
+//The next optimization would be to handle debouncing, making sure we only begin searching once the user is done typing. Let’s assume that 200ms is a good enough proxy:
 
  
     // Adding this right after applying memoization
@@ -69,7 +69,7 @@ The next optimization would be to handle debouncing, making sure we only begin s
     
     // Apply the debouncing to the search results method
     showSearchResults = debounce(showSearchResults, 200);
-Finally, we’ll also apply some regex to identify and highlight the search result within the query:
+//Finally, we’ll also apply some regex to identify and highlight the search result within the query:
 
 
     function showSearchResults(searchQuery) {
