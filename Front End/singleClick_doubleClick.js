@@ -1,4 +1,4 @@
-
+//写一个lib支持单击和双击分别执行不同的function
 const button = document.getElementById('button')
 let timer
 button.addEventListener('click', event => {
